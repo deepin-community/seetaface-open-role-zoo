@@ -1,0 +1,29 @@
+seetaface-open-role-zoo (2.0.0.0) UNRELEASED; urgency=medium
+
+  * update
+
+ -- likier <likier@sina.cn>  Mon, 20 Jun 2022 18:04:47 +0800
+
+seetaface-open-role-zoo (2.0.0.0) unstable; urgency=medium
+
+  * release 2.0.0.0
+
+ --  <fanpengcheng@uniontech.com>  Tue, 14 June 2022 17:32:13 +0800
+
+seetaface-open-role-zoo (1.0.0.2-1+dde) unstable; urgency=medium
+
+  * Add secure compilation options
+
+ --echengqi <echengqi@uniontech.com>  Mon, 24 Jan 2021 13:17:44 +0800
+
+seetaface-open-role-zoo (1.0.0.1-1+dde) unstable; urgency=medium
+
+  * Fix missing header file
+
+ -- chenlinxuan <chenlinxuan@uniontech.com>  Wed, 08 Dec 2021 15:55:46 +0800
+
+seetaface-open-role-zoo (1.0.0-1) unstable; urgency=medium
+
+  * Initial release
+
+ -- liujianqing <liujianqiang@uniontech.com>  Fri, 03 Dec 2021 17:08:50 +0800
